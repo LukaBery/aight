@@ -11,7 +11,7 @@
         <!--    alias는 대소문자 구분하지 않는다.    -->
         <typeAlias alias="user" type="com.selfdriven.aight.dto.User"/>
         <typeAlias alias="room" type="com.selfdriven.aight.dto.Room"/>
-        <typeAlias alias="room" type="com.selfdriven.aight.dto.Reservation"/>  
+        <typeAlias alias="reservation" type="com.selfdriven.aight.dto.Reservation"/>  
     </typeAliases>
 
 
