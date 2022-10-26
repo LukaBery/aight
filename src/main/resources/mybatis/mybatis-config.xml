@@ -16,6 +16,7 @@
         <typeAlias alias="rentInfo" type="com.selfdriven.aight.dto.RentInfo"/>
         <typeAlias alias="booking" type="com.selfdriven.aight.dto.Booking"/>
         <typeAlias alias="product" type="com.selfdriven.aight.dto.Product"/>
+        <typeAlias alias="roomImage" type="com.selfdriven.aight.dto.RoomImage"/>
     </typeAliases>
 
 
